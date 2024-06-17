@@ -1,4 +1,4 @@
-# Zoo-maintaining-cost-
+# Zoo-maintaining-cost
 Calculation of the cost of maintaining a zoo + Unit tests
 
 Части работы (внутри блокнота)
